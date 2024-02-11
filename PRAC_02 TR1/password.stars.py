@@ -4,8 +4,7 @@ def main():
     password = get_password()
     print_asterisks(password)
 
-def get_password():
-    password = getpass.getpass("Enter your password: ")
+def get_password():o    password = getpass.getpass("Enter your password: ")
     while len(password) < 5:
         print("Password must be at least 5 characters long.")
         password = getpass.getpass("Enter your password: ")
