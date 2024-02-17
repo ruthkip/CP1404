@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71433bd1-6983-4dfb-8a4f-8ec7082c3f68" name="Changes" comment="cp1404">
-      <change afterPath="$PROJECT_DIR$/PRAC_03 TR1/capitalist_conrad.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRAC_03 TR1/exceptions_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRAC_03 TR1/exceptions_to_complete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRAC_03 TR1/files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRAC_03 TR1/password_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRAC_03 TR1/randoms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PRAC_03 TR1/string_formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonProject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRAC_01 TR1/broken_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/PRAC_01 TR1/broken_score.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRAC_01 TR1/loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/PRAC_01 TR1/loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRAC_02 TR1/password.stars.py" beforeDir="false" afterPath="$PROJECT_DIR$/PRAC_02 TR1/password.stars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PRAC_02 TR1/score_menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/PRAC_02 TR1/score_menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonProject/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonProject/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="71433bd1-6983-4dfb-8a4f-8ec7082c3f68" name="Changes" comment="cp1404" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +140,7 @@
       <workItem from="1707914035138" duration="2105000" />
       <workItem from="1707987341216" duration="2377000" />
       <workItem from="1708176218143" duration="864000" />
-      <workItem from="1708202719148" duration="403000" />
+      <workItem from="1708202719148" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="cp1404">
       <option name="closed" value="true" />
@@ -253,7 +238,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707653182628</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="cp1404">
+      <option name="closed" value="true" />
+      <created>1708203149351</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1708203149351</updated>
+    </task>
+    <task id="LOCAL-00014" summary="cp1404">
+      <option name="closed" value="true" />
+      <created>1708203396524</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708203396524</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,21 +294,28 @@
     <option name="LAST_COMMIT_MESSAGE" value="cp1404" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CP1404$password_checker.coverage" NAME="password_checker Coverage Results" MODIFIED="1708202911663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_03 TR1" />
     <SUITE FILE_PATH="coverage/CP1404$menus.coverage" NAME="menus Coverage Results" MODIFIED="1707609963515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
-    <SUITE FILE_PATH="coverage/broken_score_py$shop_calculator.coverage" NAME="shop_calculator Coverage Results" MODIFIED="1707009870527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_01 TR1" />
     <SUITE FILE_PATH="coverage/CP1404$files_required_2.coverage" NAME="files required 2 Coverage Results" MODIFIED="1706953200091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Rar$DIa26804.13317" />
+    <SUITE FILE_PATH="coverage/broken_score_py$shop_calculator.coverage" NAME="shop_calculator Coverage Results" MODIFIED="1707009870527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_01 TR1" />
+    <SUITE FILE_PATH="coverage/CP1404$exceptions_demo.coverage" NAME="exceptions_demo Coverage Results" MODIFIED="1708202882822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_03 TR1" />
     <SUITE FILE_PATH="coverage/broken_score_py$sales_bonus.coverage" NAME="sales_bonus Coverage Results" MODIFIED="1707009893148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_01 TR1" />
     <SUITE FILE_PATH="coverage/CP1404$score_menu.coverage" NAME="score_menu Coverage Results" MODIFIED="1707656224585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_02 TR1" />
+    <SUITE FILE_PATH="coverage/CP1404$string_formatting.coverage" NAME="string_formatting Coverage Results" MODIFIED="1708202945073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_03 TR1" />
     <SUITE FILE_PATH="coverage/CP1404$score.coverage" NAME="score Coverage Results" MODIFIED="1707802439969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_02 TR1" />
     <SUITE FILE_PATH="coverage/broken_score_py$menus.coverage" NAME="menus Coverage Results" MODIFIED="1707011675897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/CP1404$shop_calculator__1_.coverage" NAME="shop_calculator (1) Coverage Results" MODIFIED="1706965491453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_01 TR1" />
+    <SUITE FILE_PATH="coverage/CP1404$files.coverage" NAME="files Coverage Results" MODIFIED="1708202904059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_03 TR1" />
     <SUITE FILE_PATH="coverage/CP1404$temperatures.coverage" NAME="temperatures Coverage Results" MODIFIED="1707798065099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_02 TR1" />
+    <SUITE FILE_PATH="coverage/CP1404$randoms.coverage" NAME="randoms Coverage Results" MODIFIED="1708202919148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_03 TR1" />
     <SUITE FILE_PATH="coverage/CP1404$file_pracs.coverage" NAME="file pracs Coverage Results" MODIFIED="1706956017061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/broken_score_py$shop_calculator__1_.coverage" NAME="shop_calculator (1) Coverage Results" MODIFIED="1707009744379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_01 TR1" />
+    <SUITE FILE_PATH="coverage/CP1404$exceptions_to_complete.coverage" NAME="exceptions_to_complete Coverage Results" MODIFIED="1708202893538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_03 TR1" />
     <SUITE FILE_PATH="coverage/score_menu_py$menus.coverage" NAME="menus Coverage Results" MODIFIED="1707610100691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
     <SUITE FILE_PATH="coverage/broken_score_py$broken_score.coverage" NAME="broken_score Coverage Results" MODIFIED="1707011416620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_01 TR1" />
     <SUITE FILE_PATH="coverage/CP1404$password_stars.coverage" NAME="password.stars Coverage Results" MODIFIED="1707816443664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_02 TR1" />
     <SUITE FILE_PATH="coverage/CP1404$main.coverage" NAME="main Coverage Results" MODIFIED="1707915028238" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonProject" />
     <SUITE FILE_PATH="coverage/CP1404$loops.coverage" NAME="loops Coverage Results" MODIFIED="1707915532909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_01 TR1" />
+    <SUITE FILE_PATH="coverage/CP1404$capitalist_conrad.coverage" NAME="capitalist_conrad Coverage Results" MODIFIED="1708202846305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRAC_03 TR1" />
   </component>
 </project>
