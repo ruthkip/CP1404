@@ -1,9 +1,10 @@
 import random
-from score import (determine_grade)
+from score import determine_grade
 
 def get_valid_score():
     """
     Get a valid score from the user (0-100 inclusive).
+    """
     while True:
         try:
             score = float(input("Enter a valid score (0-100 inclusive): "))

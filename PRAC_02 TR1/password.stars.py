@@ -1,17 +1,17 @@
-import getpass
+def get_password():
+    password = input("Enter your password: ")
+    return password
+
+
+def print_password_asterisks(password):
+    print('*' * len(password))
+
 
 def main():
     password = get_password()
-    print_asterisks(password)
+    print_password_asterisks(password)
 
-def get_password():o    password = getpass.getpass("Enter your password: ")
-    while len(password) < 5:
-        print("Password must be at least 5 characters long.")
-        password = getpass.getpass("Enter your password: ")
-    return password
 
-def print_asterisks(password):
-    print('*' * len(password))
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()
+
